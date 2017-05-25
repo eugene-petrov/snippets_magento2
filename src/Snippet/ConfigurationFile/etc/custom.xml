@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="custom.xsd">
+    <custom_node>Foo</custom_node>
+    <custom_node>Bar</custom_node>
+</config>

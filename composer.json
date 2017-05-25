@@ -1,0 +1,28 @@
+{
+    "name": "snippets/magento2",
+    "description": "Snippets for magento2",
+    "keywords": ["magento2","snippets","examples"],
+    "homepage": "https://Eugenivo@bitbucket.org/Eugenivo/magento2_snippets.git",
+    "authors": [
+        {
+            "name": "Eugene Petrov",
+            "email": "https://github.com/EugenPetrov/snippets_magento2"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "files": [
+            "src/Snippet/FirstModule/registration.php",
+            "src/Snippet/SecondModule/registration.php",
+            "src/Snippet/Controller/registration.php",
+            "src/Snippet/Plugin/registration.php",
+            "src/Snippet/Observer/registration.php",
+            "src/Snippet/ConfigurationFile/registration.php"
+        ],
+        "psr-4": {
+            "Snippet\\": "src/Snippet"
+        }
+    }
+}
