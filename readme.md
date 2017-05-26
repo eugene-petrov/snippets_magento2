@@ -24,9 +24,9 @@ Installation complete. You can find these modules under: vendor/snippets
 
 _List of modules:_
 
-- FirstModule
-- SecondModule
-- Controller
-- Plugin
-- ConfigurationFile
-
+- [FirstModule](src/Snippet/FirstModule)
+- [SecondModule](src/Snippet/SecondModule)
+- [Controller](src/Snippet/Controller)
+- [Observer](src/Snippet/Observer)
+- [Plugin](src/Snippet/Plugin)
+- [ConfigurationFile](src/Snippet/ConfigurationFile)
