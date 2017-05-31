@@ -1,3 +1,11 @@
 {
-
+  "name": "snippets/magento2-configuration-file",
+  "description": "How to create and use custom etc/custom_config.xml",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0"
+  ],
+  "require": {
+    "php": "~7.0.0"
+  }
 }

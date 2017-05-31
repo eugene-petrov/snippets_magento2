@@ -1,3 +1,11 @@
 {
-
+  "name": "snippets/magento2-plugin",
+  "description": "Work with plugins",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0"
+  ],
+  "require": {
+    "php": "~7.0.0"
+  }
 }

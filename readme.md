@@ -10,12 +10,7 @@ _Prerequisites:_
 - installed git and composer
 - require php more than version 7.0
 
-_How to install:_
-
-composer require inchoo/custom-controllers:dev-master
-composer require snippets/magento2:dev-master
-
-Execute commands:
+_To install execute commands:_
 
 1) `composer config repositories.snippets-magento2 vcs https://github.com/EugenPetrov/snippets_magento2.git`
 2) `composer require snippets/magento2:dev-master`
