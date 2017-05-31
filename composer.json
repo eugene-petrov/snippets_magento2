@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "php": ">=5.6"
+        "php": ">=7.0",
+        "magento/framework": "*"
     },
     "autoload": {
         "files": [
@@ -19,7 +20,8 @@
             "src/Snippet/Controller/registration.php",
             "src/Snippet/Plugin/registration.php",
             "src/Snippet/Observer/registration.php",
-            "src/Snippet/ConfigurationFile/registration.php"
+            "src/Snippet/ConfigurationFile/registration.php",
+            "src/Snippet/Render/registration.php"
         ],
         "psr-4": {
             "Snippet\\": "src/Snippet"

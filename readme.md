@@ -30,3 +30,4 @@ _List of modules:_
 - [Observer](src/Snippet/Observer)
 - [Plugin](src/Snippet/Plugin)
 - [ConfigurationFile](src/Snippet/ConfigurationFile)
+- [Render](src/Snippet/Render)
