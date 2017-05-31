@@ -17,7 +17,7 @@ class Template extends Action
     public function execute()
     {
         $block = $this->_view->getLayout()->createBlock(TemplateElement::class);
-        $block->setTemplate('template.phtml');
+        $block->setTemplate('Snippet_Render::template.phtml');
         $this->getResponse()->appendBody($block->toHtml());
     }
 }
