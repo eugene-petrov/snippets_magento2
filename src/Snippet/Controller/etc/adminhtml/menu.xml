@@ -3,14 +3,6 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
     <menu>
-        <!--<add id="Magento_Banner::cms_magento_banner"-->
-             <!--title="Banners"-->
-             <!--translate="title"-->
-             <!--module="Magento_Banner"-->
-             <!--sortOrder="40"-->
-             <!--arent="Magento_Backend::content_elements"-->
-             <!--action="adminhtml/banner"-->
-             <!--resource="Magento_Banner::magento_banner"/>-->
         <add id="Snippet_Controller::snippet_backend_controller"
              title="Snippet Backed Controller"
              translate="title"
