@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <!--<move element="snippet.template" destination="sidebar.main" after="-"/>-->
+        <move element="snippet.template" destination="sidebar.additional" after="-"/>
+        <referenceBlock name="snippet.template">
+            <arguments>
+                <argument name="background_color" xsi:type="string">lightblue</argument>
+                <argument name="snippet_message" xsi:type="string">It is displayed only on category view page.</argument>
+            </arguments>
+        </referenceBlock>
+    </body>
+</page>

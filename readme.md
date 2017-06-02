@@ -26,3 +26,4 @@ _List of modules:_
 - [Plugin](src/Snippet/Plugin)
 - [ConfigurationFile](src/Snippet/ConfigurationFile)
 - [Render](src/Snippet/Render)
+- [Layout](src/Snippet/Layout)
