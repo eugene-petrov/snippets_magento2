@@ -42,9 +42,6 @@ class RedirectToContact implements ObserverInterface
     public function execute(Observer $observer)
     {
         $request = $observer->getEvent()->getData('request');
-        if ($request->getModuleName() == 'admin') {
-            return;
-        }
         if ($request->getModuleName() != 'contact') {
             $controller = $observer->getControllerAction();
             $this->actionFlag->set('', Action::FLAG_NO_DISPATCH, true);
