@@ -1,0 +1,11 @@
+{
+  "name": "snippets/magento2-layout",
+  "description": "Work with layouts",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0"
+  ],
+  "require": {
+    "php": "~7.0.0"
+  }
+}
