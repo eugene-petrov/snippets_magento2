@@ -6,7 +6,8 @@ use Magento\Backend\App\Action\Context;
 use Magento\Framework\App\Action\Action;
 
 /**
- * Banner loading
+ * Class Index
+ * @package Snippet\Controller\Controller\Custom
  */
 class Index extends Action
 {

@@ -1,0 +1,11 @@
+{
+  "name": "snippets/magento2-table",
+  "description": "How to create a custom table. Working with update scripts",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0"
+  ],
+  "require": {
+    "php": "~7.0.0"
+  }
+}
