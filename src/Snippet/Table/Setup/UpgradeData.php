@@ -30,7 +30,7 @@ class UpgradeData implements UpgradeDataInterface
      */
     private function upgrade101(ModuleDataSetupInterface $setup, ModuleContextInterface $context)
     {
-        if (version_compare($context->getVersion(), '1.0.1') >= 0) {
+        if (version_compare($context->getVersion(), '1.0.1', '>=')) {
             return $this;
         }
         $table = $setup->getTable(Snippet::TABLE_NAME);

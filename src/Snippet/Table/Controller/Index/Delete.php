@@ -30,7 +30,7 @@ class Delete extends Action
     }
 
     /**
-     * return void
+     * @return void
      */
     public function execute()
     {

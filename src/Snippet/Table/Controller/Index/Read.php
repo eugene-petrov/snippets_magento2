@@ -30,15 +30,17 @@ class Read extends Action
     }
 
     /**
-     * return void
+     * @return void
      */
     public function execute()
     {
         $collection = $this->snippetModel->getCollection();
+        $body = '';
 
         foreach ($collection as $item) {
-            var_dump('Item ID: ' . $item->getEntityId());
-            var_dump($item->getData());
+            $body .= 'Item ID: ' . $item->getEntityId() . print_r( $item->getData(), true) . '<br>';
         }
+
+        $this->getResponse()->appendBody($body);
     }
 }

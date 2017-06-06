@@ -30,7 +30,7 @@ class Create extends Action
     }
 
     /**
-     * return void
+     * @return void
      */
     public function execute()
     {
@@ -40,9 +40,7 @@ class Create extends Action
         ];
         $this->snippetModel->addData($data);
         $this->snippetModel->getResource()->save($this->snippetModel);
-        var_dump('Inserted: ', [
-            'name' => 'Table',
-            'description' => 'setup and crud examples',
-        ]);
+        $body = 'Inserted: ' . print_r($data, true);
+        $this->getResponse()->appendBody($body);
     }
 }
