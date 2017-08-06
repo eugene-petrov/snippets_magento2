@@ -27,3 +27,4 @@ _List of modules:_
 - [ConfigurationFile](src/Snippet/ConfigurationFile)
 - [Render](src/Snippet/Render)
 - [Layout](src/Snippet/Layout)
+- [Table](src/Snippet/Table)
