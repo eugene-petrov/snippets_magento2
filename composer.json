@@ -22,7 +22,8 @@
             "src/Snippet/Observer/registration.php",
             "src/Snippet/ConfigurationFile/registration.php",
             "src/Snippet/Render/registration.php",
-            "src/Snippet/Layout/registration.php"
+            "src/Snippet/Layout/registration.php",
+            "src/Snippet/Table/registration.php"
         ],
         "psr-4": {
             "Snippet\\": "src/Snippet"
