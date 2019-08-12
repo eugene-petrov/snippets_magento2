@@ -1,4 +1,5 @@
 ***Snippets for magento 2***
+***Snippets for magento 2***
 
 _Description:_ basic examples for magento 2 with brief explanations.
 Don't waste your time on trivial things.
