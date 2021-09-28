@@ -1,5 +1,4 @@
 ***Snippets for magento 2***
-***Snippets for magento 2***
 
 _Description:_ basic examples for magento 2.
 For more info, please, read readme.md for a particular module.
