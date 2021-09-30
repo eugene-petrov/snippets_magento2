@@ -7,6 +7,7 @@ _List of snippet extensions:_
 
 - [EmptyModule](https://github.com/eugene-petrov/magento2-empty-module)
 - [Command](https://github.com/eugene-petrov/magento2-command)
+- [Controller](https://github.com/eugene-petrov/magento2-controller)
 - [Observer](https://github.com/eugene-petrov/magento2-observer)
 - [Plugin](https://github.com/eugene-petrov/magento2-plugin)
 
