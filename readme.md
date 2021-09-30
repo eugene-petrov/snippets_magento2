@@ -5,9 +5,10 @@ For more info, please, read readme.md for a particular module.
 
 _List of snippet extensions:_
 
-- [EmptyModule](https://github.com/eugene-petrov/magento2-empty-module)
+- [Empty module](https://github.com/eugene-petrov/magento2-empty-module)
 - [Command](https://github.com/eugene-petrov/magento2-command)
 - [Controller](https://github.com/eugene-petrov/magento2-controller)
+- [Custom xml config](https://github.com/eugene-petrov/magento2-custom-xml-config)
 - [Observer](https://github.com/eugene-petrov/magento2-observer)
 - [Plugin](https://github.com/eugene-petrov/magento2-plugin)
 
