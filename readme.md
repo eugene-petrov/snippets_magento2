@@ -12,6 +12,11 @@ _List of snippet extensions:_
 - [Observer](https://github.com/eugene-petrov/magento2-observer)
 - [Plugin](https://github.com/eugene-petrov/magento2-plugin)
 - [System Config](https://github.com/eugene-petrov/magento2-system-config)
+- [WebApi](https://github.com/eugene-petrov/magento2-web-api)
+
+_@TODO:_
+- [Frontend UI component]()
+- [Custom log file]()
 
 _Tips and tricks:_
 - [How to develop Magento 2 composer packages](https://gist.github.com/eugene-petrov/e37a99d696b47700552c1ef9c0cc557e)
