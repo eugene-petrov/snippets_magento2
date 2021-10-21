@@ -17,3 +17,9 @@ _List of snippet extensions:_
 
 _Tips and tricks:_
 - [How to develop Magento 2 composer packages](https://gist.github.com/eugene-petrov/e37a99d696b47700552c1ef9c0cc557e)
+
+_General PHP tasks:_
+- [Range Numbers Manager](https://github.com/eugene-petrov/range-numbers)
+
+_Dev extensions:_
+- [Magento 2 DataPatchCreator](https://github.com/enanobots/m2-datapatchcreator)
