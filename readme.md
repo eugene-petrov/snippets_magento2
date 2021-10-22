@@ -31,3 +31,6 @@ _Product detail page_
 
 _Product listing page_
 - [Filter by category ids](https://github.com/eugene-petrov/magento2-category-filter)
+
+_Checkout page_
+- [Expand discount code box](https://github.com/eugene-petrov/magento2-expand-discount-code-box)
