@@ -23,3 +23,11 @@ _General PHP tasks:_
 
 _Dev extensions:_
 - [Magento 2 DataPatchCreator](https://github.com/enanobots/m2-datapatchcreator)
+
+**Magento 2 Customization Examples**
+
+_Product detail page_
+- [Product description moved to product info](https://github.com/eugene-petrov/magento2-product-description)
+
+_Product listing page_
+- [Filter by category ids](https://github.com/eugene-petrov/magento2-category-filter)
