@@ -1,9 +1,9 @@
 ***Snippets for magento 2***
 
-_Description:_ basic examples for magento 2.
-For more info, please, read readme.md for a particular module.
+_Description:_ this repository contains examples for magento 2.
+Please, go to a particular module for more information.
 
-_List of snippet extensions:_
+**Snippets**
 
 - [Empty module](https://github.com/eugene-petrov/magento2-empty-module)
 - [Command](https://github.com/eugene-petrov/magento2-command)
@@ -15,13 +15,13 @@ _List of snippet extensions:_
 - [WebApi](https://github.com/eugene-petrov/magento2-web-api)
 - [Dedicated log file](https://github.com/eugene-petrov/magento2-dedicated-log-file)
 
-_Tips and tricks:_
+**Tips and tricks**
 - [How to develop Magento 2 composer packages](https://gist.github.com/eugene-petrov/e37a99d696b47700552c1ef9c0cc557e)
 
-_General PHP tasks:_
+**General PHP tasks**
 - [Range Numbers Manager](https://github.com/eugene-petrov/range-numbers)
 
-_Dev extensions:_
+**Dev extensions**
 - [Magento 2 DataPatchCreator](https://github.com/enanobots/m2-datapatchcreator)
 
 **Magento 2 Customization Examples**
